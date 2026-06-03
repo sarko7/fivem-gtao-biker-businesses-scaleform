@@ -1,4 +1,3 @@
 # fivem-gtao-biker-businesses-scaleform
 
-Recreated GTA:O Biker businesses with decompiled scaleforms and started to integrate it to my own server.
-Never finished it.
+Recreation of the GTA Online laboratory management interface from decompiled Scaleform files. I started integrating it for use on my server but never finished the implementation.
