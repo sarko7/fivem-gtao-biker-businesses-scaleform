@@ -1,7 +1,4 @@
-# sahDrugLabs
+# fivem-gtao-biker-businesses-scaleform
 
-Recreated Biker Businesses Management Scaleform from GTAV Online
-
-Project is discontinued from long time but if you feel to take the code and implement on your server go for it
-
-/!\ NOT A RELEASE, CODE IS UNFINISHED /!\
+Recreated GTA:O Biker businesses with decompiled scaleforms and started to integrate it to my own server.
+Never finished it.
